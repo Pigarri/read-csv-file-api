@@ -7,7 +7,9 @@ Foi criado uma inteface em bootstrap 4 para facilitar o upload do arquivo .csv;
 
 Projeto esta configurado para rodar na porta 8081;
 
-Temos as seguintes operações implementadas:
+Arquivo .csv anexo ja esta formatado.
+
+Operações implementadas:
 
 POST - localhost:8081/fileupload ao completar a ação automaticamente sera redirecionado para o GET abaixo
 GET - localhost:8081/ que contera a lista carregada.
