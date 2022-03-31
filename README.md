@@ -1,4 +1,4 @@
-# readCSVFileAPI
+# read-csv-file-api
 Projeto para leitura de arquivos CSV
 
 Para rodar este projeto basta instalar uma IDE que suporta o projeto Spring ex..IntelliJ ou STS;
